@@ -1,0 +1,1 @@
+print("âyyayay","aloaloal",sep="%")
